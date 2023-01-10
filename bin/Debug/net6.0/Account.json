@@ -1,0 +1,21 @@
+
+	[
+		{
+			"FirstName": "Ion",
+			"LastName": "Pearja",
+			"Role": "USER",
+			"ShippingAddress": "jud. Timis, oras Timisoara, str. Aleea Studentilor Nr. 6, Ap. 323"
+		},
+		{
+			"FirstName": "Anca-Stefania",
+			"LastName": "Cociorvan",
+			"Role": "USER",
+			"ShippingAddress": "jud. Timis, oras Timisoara, str. Conac Nr. 15"
+		},
+		{
+			"FirstName": "Admin",
+			"LastName": "Admin",
+			"Role": "ADMIN",
+			"ShippingAddress": "N/A"
+		}
+	]

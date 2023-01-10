@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Name": "T-Shirt",
+    "Price": 50,
+    "Amount": 10
+  },
+  {
+    "Name": "Pants",
+    "Price": 10,
+    "Amount": 6
+  },
+  {
+    "Name": "Boots",
+    "Price": 250,
+    "Amount": 5
+  },
+  {
+    "Name": "Cap",
+    "Price": 25,
+    "Amount": 12
+  }
+]

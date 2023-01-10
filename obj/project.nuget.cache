@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "0pUjWZKW7M9tBzLENAmprfWzIzlpCeRQKhh/WS/NfQgsy2cjT+F2secPX5R+D0sCs1/aJlTcnEgCyj7UgklnrA==",
+  "dgSpecHash": "XL52OeiRzAt4Av4baqV3jaW9K60kEfE5WOk3QhpjG+GezQatjTKJq5IxZyC9d2oPsYlIcWtDZl8vDSbPrfRWPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pearja\\Documents\\UNI\\IS IV S1\\PSSC\\PSSC-lab-project\\PSSC-lab-project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pearja\\.nuget\\packages\\csharp.choices\\2.1.1\\csharp.choices.2.1.1.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\csharp.choices.attributes\\2.1.1\\csharp.choices.attributes.2.1.1.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\csharp.choices.generators\\2.1.1\\csharp.choices.generators.2.1.1.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.1\\microsoft.codeanalysis.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.1\\microsoft.codeanalysis.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\pearja\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }
